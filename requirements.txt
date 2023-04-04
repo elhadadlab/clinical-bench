@@ -1,0 +1,8 @@
+datasets
+evaluate
+nltk
+pandas
+p-tqdm
+regex
+rouge-score
+ujson
